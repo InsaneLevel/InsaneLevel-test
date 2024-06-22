@@ -35,7 +35,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/abstract-feature3.svg
+      url: /images/sanity-logo.svg
     badge:
       label: This is a badge
       color: text-dark
