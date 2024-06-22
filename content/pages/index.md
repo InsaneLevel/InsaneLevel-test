@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: Início - Insane Level
   metaDescription: Um futuro site de milhões em construção.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/_2fb5077a-123b-44bb-b2fa-fe77855c98b7.jpg
   type: Seo
 type: PageLayout
 ---
