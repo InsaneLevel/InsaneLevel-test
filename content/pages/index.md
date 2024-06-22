@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Em busca da perfeição, mesmo que seja impossível'
-      color: text-light
+      color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
