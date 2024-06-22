@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Início - Insane Level
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Um futuro site de milhões em construção.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
