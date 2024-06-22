@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Em busca da perfeição, mesmo que seja impossível'
+      text: Futuro site insano em construção!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
